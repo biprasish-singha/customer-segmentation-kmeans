@@ -208,4 +208,4 @@ This project is for educational and portfolio purposes. The generated segments a
 **Biprasish Singha**
 
 - GitHub: [biprasish-singha](https://github.com/biprasish-singha)
-- LinkedIn: [biprasish-singha-925782426](https://www.linkedin.com/in/biprasish-singha-925782426/)
+- LinkedIn: [biprasish-singha](https://www.linkedin.com/in/biprasish-singha/)
